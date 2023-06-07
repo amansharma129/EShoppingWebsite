@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyEShoppingWebsite(5)", "..\..\..\Desktop\New EShopping website coderbaba\project\MyEShoppingWebsite\", "{08F14452-092B-4673-B699-284A4CF41833}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49898"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\New EShopping website coderbaba\project\MyEShoppingWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49898\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49898"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\New EShopping website coderbaba\project\MyEShoppingWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49898\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49898"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F14452-092B-4673-B699-284A4CF41833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F14452-092B-4673-B699-284A4CF41833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A70E1E-77FC-432B-9A82-9D4E8A90F34F}
+	EndGlobalSection
+EndGlobal
